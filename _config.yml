@@ -71,3 +71,6 @@ deploy:
   type: git
   repo: https://github.com/hibehero/hibehero.github.io.git
   branch: master
+
+
+duoshuo_shortname: hibehero
